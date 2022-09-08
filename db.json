@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Meu Primeiro Projeto",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Contratar Desenvolvedor Jr.",
+          "cost": "3000",
+          "description": "Contratar Desenvolvedor Front-end para auxiliar nas demandas do projeto",
+          "id": "4b4dc040-2a6c-422a-af87-22f7f35aebdc"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Meu Projeto 002",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
